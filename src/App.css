@@ -1,0 +1,8 @@
+.btn-gradient-1 {
+  border-image: linear-gradient(to bottom, darkblue, darkorchid) 1;
+}
+
+.btn-gradient-2 {
+  background: linear-gradient(white, white) padding-box,
+    linear-gradient(to right, darkblue, darkorchid) border-box;
+}
